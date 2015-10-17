@@ -1,11 +1,11 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  commenter: MyString
-  body: MyText
-  article_id: 
+  commenter: Adrian
+  body: You're an idiot
+  article: My first article
 
 two:
-  commenter: MyString
-  body: MyText
-  article_id: 
+  commenter: Adrian
+  body: You're a communist
+  article: My second article
